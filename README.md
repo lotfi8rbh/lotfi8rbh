@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lotfi</h1>
 <h3 align="center">A passionate Apprentice in IoT, IA & Big Data from Algeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lotfi8rbh" alt="lotfi8rbh" /></a> </p>
-
 - 🌱 I’m currently learning **Python, Numpy, Matplotlib, Pandas, Flutter and PHP Symfony**
 
 - 📫 How to reach me **lotfirabah2@gmail.com**
