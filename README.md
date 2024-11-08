@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lotfi</h1>
-<h3 align="center">A passionate Apprentice in IoT, IA & Big Data from Algeria</h3>
+<h3 align="center">A passionate Apprentice in IoT, IA & Embedded Systems from Algeria</h3>
 
 - 🌱 I’m currently learning **Python, Numpy, Matplotlib, Pandas, Flutter and PHP Symfony**
 
