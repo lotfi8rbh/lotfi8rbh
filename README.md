@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lotfi</h1>
 <h3 align="center">A passionate Future Data Engineer</h3>
 
+
 - 🔭 I’m currently working on **My Data Engineer Portfolio**
 
-- 🌱 I’m currently learning **Cloud Computing (Azure)**
+- ✅ I’m now **Microsoft Certified: Azure Fundamentals (az-900)** 
 
 - 📫 How to reach me **lotfirabah2@gmail.com**
 
