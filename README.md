@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lotfi</h1>
 <h3 align="center">A passionate Future Data Engineer</h3>
 
+- 📝 I'm learning how to **programmatically schedule and monitor data workflows**.
 
 - 🔭 I’m currently working on **My Data Engineer Portfolio**
 
