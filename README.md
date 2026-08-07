@@ -1,21 +1,20 @@
 # 💫 About Me:
 🔭 I’m currently working on
-
 Optimizing ETL pipelines and data ingestion scripts to transform complex logistics datasets into structured, high-quality data models.
+
 👯 I’m looking to collaborate on
-
 Open-source Data Engineering frameworks, specifically projects involving Data Quality automation or scalable Data Orchestration (Airflow/Prefect).
+
 🤝 I’m looking for help with
-
 Advanced cloud architecture patterns and real-time streaming ingestion using Kafka or Spark Streaming to complement my batch processing skills.
+
 🌱 I’m currently learning
-
 Mastering Data Warehouse modeling and deepening my expertise in Data Governance to ensure end-to-end reliability in large-scale systems.
+
 💬 Ask me about
-
 Building robust Python-based data pipelines, conducting thorough Data Quality audits, or automating supply chain reporting with interactive dashboards.
-⚡ Fun fact
 
+⚡ Fun fact
 When I'm not debugging transformation scripts, I’m behind my RODE NT1 mic—I find that clear Voice Acting helps in explaining complex data architectures to international teams!
 
 
